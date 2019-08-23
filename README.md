@@ -1,0 +1,2 @@
+# ISS_Live_Tracker
+In this project, I demonstrate my knowledge of working to request information from API's. I use the API client provided by the website 'Where the ISS at' to pull live latitude and longitude co-ordinates of the International Space Station. I then display these co-ordinates on the webpage and show the location of the ISS on a map. Finally, the webpage is refreshed every second by default to give users a live look.
